@@ -2,7 +2,7 @@
 ## by David Nachman
 
 ## Credit / Attribution
-This notebook was adapted from https://github.com/aws-samples/sagemaker-distributed-training-workshop/blob/main/7_twitch_notebooks/1_23_2023/Stable_Diffusion.ipynb after watching [this episode](https://www.twitch.tv/videos/1723458659), which is part of the [AWS Build On Generative AI](https://community.aws/livestreams/build-on-generative-ai) series
+This notebook was adapted from [Stable_Diffusion.ipynb](https://github.com/aws-samples/sagemaker-distributed-training-workshop/blob/main/7_twitch_notebooks/1_23_2023/Stable_Diffusion.ipynb) after watching [this episode](https://www.twitch.tv/videos/1723458659), which is part of the [AWS Build On Generative AI](https://community.aws/livestreams/build-on-generative-ai) series
 
 ## How to run this yourself
 
