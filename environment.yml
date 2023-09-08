@@ -1,0 +1,13 @@
+name: diffusers
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - ipython
+  - ipykernel
+  - diffusers
+  - transformers
+  - accelerate
+  - pytorch
+  - scipy
+  - ftfy
